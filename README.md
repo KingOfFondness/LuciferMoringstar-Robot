@@ -1,8 +1,8 @@
 ###  <a href="https://youtu.be/FCU_XJmyG_U">LuciferMoringstar-Robot</a>
 
-<img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+<img src="https://github.com/KingOfFondness/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
 
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>   <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>
+<img src="https://img.shields.io/github/stars/KingOfFondness/LuciferMoringstar-Robot?style=social"/>   <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>
 
 ----
 
@@ -10,12 +10,12 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/KingOfFondness/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
 
-Licensed under [MIT License](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+Licensed under [MIT License](https://github.com/KingOfFondness/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ----
@@ -30,9 +30,9 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ```
 ### Credits
 
-Thanks To [LuciferMoringstar-Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
-Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#credits)
+Thanks To [LuciferMoringstar-Robot](https://github.com/KingOfFondness/LuciferMoringstar-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
+Thanks To [Muhammed](https://github.com/KingOfFondness)
+Thanks To [Developers](https://github.com/KingOfFondness/LuciferMoringstar-Robot#credits)
 ```
 
 ----
@@ -50,9 +50,9 @@ Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#c
 
  Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter
 
- [No Helper. Done Alone](https://github.com/PR0FESS0R_99) Creator
+ [No Helper. Done Alone](https://github.com/KingOfFondness) Creator
 
- Thanks To [Muhammed](https://github.com/PR0FESS0R_99) Me
+ Thanks To [Muhammed](https://github.com/KingOfFondness) Me
 
 ----
 
@@ -153,7 +153,7 @@ Do Fork And Star The Repository If You Liked It.
 
 `FILTER_BUTTONS` : Result Button Count [ > 3 : < 45 ]
 
-`LOG_CHANNEL` : Bot Logs, Give a channel id with -100xxxxxxx
+`LOG_CHANNEL` : Bot Logs, Give a channel id with -100xxxxxxxx
 
 `PICS` : (random pics support | separate multiple pictures by space) Get this value from :- [Click Here](https://telegram.dog/MT_TelegraPH_Bot)
 
@@ -198,12 +198,12 @@ broadcast - admin only
 ----
 
 ### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku%20(1).jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/KingOfFondness/LuciferMoringstar-Robot"><img src="https://github.com/KingOfFondness/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku%20(1).jpg" alt="KingOfFondness" border="0" height="125" width="200" align="center" /></a>
 
 ----
 
 ### How To Fix Error 
-<a href="https://youtu.be/Zsknt_nY2LQ"><img src="https://telegra.ph/file/5c98868b0eea075cb7c77.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://youtu.be/Zsknt_nY2LQ"><img src="https://telegra.ph/file/5c98868b0eea075cb7c77.jpg" alt="KingOfFondness" border="0" height="125" width="200" align="center" /></a>
 
 ----
 
